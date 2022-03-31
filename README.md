@@ -1,5 +1,10 @@
 ### Hi there 👋
-🌱 I’m currently learning PHP,MySQL,Node.js
+🌱 I’m currently learning Angular.js,PHP,WP,Node.js
+
+
+What I like ? animation using GSAP and much more 
+design layouts , inspiration from I take awwards , behance
+
 
 <!--
 **adam-ciolek/adam-ciolek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
