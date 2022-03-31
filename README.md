@@ -3,7 +3,7 @@
 
 
 What I like ? animation using GSAP and much more 
-design layouts , inspiration from I take awwards , behance
+design layouts ,I take inspiration from awwwards , behance
 
 
 <!--
